@@ -1,0 +1,14 @@
+$primary: #006699;
+$subHeading: #3c763d;
+body{
+	padding: 0px;
+	margin: 0px;
+}
+h2 {
+	color: $primary;
+}
+
+h3 {
+	color: $subHeading;
+}
+.active li{background: #c8c8c8 !important;}
